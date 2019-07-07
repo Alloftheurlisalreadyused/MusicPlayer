@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">쉼</string>
+    <string name="title_home">홈</string>
+    <string name="title_sleep">수면</string>
+    <string name="title_video">영상</string>
+    <string name="title_music">음악</string>
+    <string name="title_etc">더보기</string>
+    <string name="youtube_key">AIzaSyApKLg2ZLzIt18X1FlCYvXPoUYxgWOWfpM</string>
+
+    <string name="music_image">Music Image</string>
+    <string name="shim_logo">Shim Logo</string>
+    <string name="shim">Shim</string>
+    <string name="app_developer">Developed by Prography</string>
+    <string name="app_developer_contact">develop@prography.org</string>
+    <string name="title">제목</string>
+    <string name="contact">전화번호 또는 이메일</string>
+    <string name="send_feedback">의견 보내기</string>
+    <string name="content">내용</string>
+    <string name="feedback">1:1 문의</string>
+    <string name="app_info">어플리케이션 정보</string>
+    <string name="tab_music_all">All</string>
+    <string name="tab_music_favorite">Favorite</string>
+    <string name="tab_music_relax">Relax</string>
+    <string name="tab_music_focus">Focus</string>
+    <string name="tab_music_classic">Classic</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="add_playlist">Add Playlist</string>
+    <string name="current_music">Current Music</string>
+    <string name="toggle_favorite">Toggle Favorite</string>
+    <string name="show_play_options">Show Play Options</string>
+    <string name="option_play_now">Play Now</string>
+    <string name="option_add_playlist">Add Playlist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_breath">Breath</string>
+</resources>
